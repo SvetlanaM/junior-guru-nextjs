@@ -8,9 +8,9 @@ export default function Home(props) {
 	));
 }
 
-export const getStaticProps = async () => {
+export const getServerSideProps = async () => {
 	const feed = await prisma.tweet.findMany({
 		where: { published: true },
 	});
-	return { props: { feed }, revalidate: 10 };
+	return { props: { feed } };
 };

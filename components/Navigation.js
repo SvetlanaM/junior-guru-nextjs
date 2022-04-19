@@ -26,7 +26,7 @@ const Navigation = () => {
 					</a>
 				</Link>
 			))}
-			{/* <a href='/users/kure'>Kure2</a> */}
+			<a href='/users/kure'>Kure2</a>
 			<button onClick={() => router.back()} className={hrefStyling}>
 				Kam idem
 			</button>

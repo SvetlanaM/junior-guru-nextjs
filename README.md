@@ -35,8 +35,8 @@ In this example of the app, we have created:
 11. Styling with Tailwind
 12. Api Routes
 
-This app is about tweeting and about chickends. Backend is supported with Prisma
-ORM connected to local PostgreSQL database.
+This app is about tweeting and about chickens. Backend is supported with
+[Prisma](https://www.prisma.io/) ORM connected to local PostgreSQL database.
 
 ## Setup Prisma
 

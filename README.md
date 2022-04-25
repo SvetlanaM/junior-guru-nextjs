@@ -17,7 +17,6 @@ juniors are welcome [here](https://junior.guru/club/).
 4. Better SEO
 5. Easy routing
 6. Navigating with Link component between pages
-7. Ohters
 
 ## About app
 
